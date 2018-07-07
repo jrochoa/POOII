@@ -1,2 +1,10 @@
 c:\users\jrochoa\documents\visual studio 2015\Projects\POOII\POOII\bin\Debug\POOII.exe.config
 D:\Tareas\POOII\POOII\POOII\bin\Debug\POOII.exe.config
+D:\Tareas\POOII\POOII\POOII\bin\Debug\Datos\productos.csv
+D:\Tareas\POOII\POOII\POOII\bin\Debug\POOII.exe
+D:\Tareas\POOII\POOII\POOII\bin\Debug\POOII.pdb
+D:\Tareas\POOII\POOII\POOII\obj\Debug\POOII.Form1.resources
+D:\Tareas\POOII\POOII\POOII\obj\Debug\POOII.Properties.Resources.resources
+D:\Tareas\POOII\POOII\POOII\obj\Debug\POOII.csproj.GenerateResource.Cache
+D:\Tareas\POOII\POOII\POOII\obj\Debug\POOII.exe
+D:\Tareas\POOII\POOII\POOII\obj\Debug\POOII.pdb
